@@ -1,0 +1,2 @@
+C:\Users\Marcelo\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM140\Exercicio 1\TipCalculator\TipCalculator.UWP\TipCalculator.UWP.csproj;x86
+C:\Users\Marcelo\Desktop\XaMarin\Xamarin Professional Certification Progress\XAM140\Exercicio 1\TipCalculator\TipCalculator\TipCalculator.csproj;neutral

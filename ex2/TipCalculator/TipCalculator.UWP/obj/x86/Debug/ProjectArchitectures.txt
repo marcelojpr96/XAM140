@@ -1,0 +1,2 @@
+C:\DEV\XAM140\ex2\TipCalculator\TipCalculator.UWP\TipCalculator.UWP.csproj;x86
+C:\DEV\XAM140\ex2\TipCalculator\TipCalculator\TipCalculator.csproj;neutral
